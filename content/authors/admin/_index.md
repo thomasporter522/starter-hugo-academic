@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's in Mathematics and Computer Science
+  - course: BA in Math and Computer Science
     institution: Cornell University
     year: 2019 - 2023
   - course: Specialization in Computer Science
@@ -65,5 +65,3 @@ highlight_name: true
 ---
 
 : )
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
